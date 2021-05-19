@@ -1,6 +1,5 @@
 # Imports the Google Cloud client library
 from google.cloud import language_v1
-import os
 
 # Instantiates a client
 print("Google Server Request...")
